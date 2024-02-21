@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Prueba Mosters</string>
+    <string name="tvDetailMoster">Detalles de la carta</string>
+    <string name="tvId">Id:</string>
+    <string name="tvName">Nombre:</string>
+    <string name="tvRaza">Raza:</string>
+    <string name="tvArchetype">Arquetipo:</string>
+    <string name="errorSearch">Parece que no hemos \n encontrado lo que estas buscando</string>
+    <string name="tvFilterArchetype">Consulta por Arqueotipos</string>
+    <string name="tvDefending">Defensa:</string>
+    <string name="tvStroke">Ataque:</string>
+</resources>

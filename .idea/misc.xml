@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/cristian.leon/PruebaMosters/app/src/main/res/drawable-v24/borders_targetas_info_extra.xml" value="0.197" />
+        <entry key="..\:/Users/cristian.leon/PruebaMosters/app/src/main/res/drawable-v24/borders_tarjetas_tienda.xml" value="0.197" />
+        <entry key="..\:/Users/cristian.leon/PruebaMosters/app/src/main/res/drawable-v24/bordes_btn.xml" value="0.1485" />
+        <entry key="..\:/Users/cristian.leon/PruebaMosters/app/src/main/res/drawable-v24/bordes_contenedor.xml" value="0.197" />
+        <entry key="..\:/Users/cristian.leon/PruebaMosters/app/src/main/res/drawable-v24/dialog_desing.xml" value="0.1485" />
+        <entry key="..\:/Users/cristian.leon/PruebaMosters/app/src/main/res/drawable-v24/ic_icon_expandible.xml" value="0.197" />
+        <entry key="..\:/Users/cristian.leon/PruebaMosters/app/src/main/res/drawable-v24/ic_iconarrow.xml" value="0.1" />
+        <entry key="..\:/Users/cristian.leon/PruebaMosters/app/src/main/res/drawable-v24/ic_iconfavorito.xml" value="0.197" />
+        <entry key="..\:/Users/cristian.leon/PruebaMosters/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1485" />
+        <entry key="..\:/Users/cristian.leon/PruebaMosters/app/src/main/res/drawable-v24/icon_cupon.xml" value="0.1485" />
+        <entry key="..\:/Users/cristian.leon/PruebaMosters/app/src/main/res/drawable-v24/icon_search.xml" value="0.1485" />
+        <entry key="..\:/Users/cristian.leon/PruebaMosters/app/src/main/res/drawable-v24/icon_star.xml" value="0.197" />
+        <entry key="..\:/Users/cristian.leon/PruebaMosters/app/src/main/res/drawable-v24/new_icon_btn_atras.xml" value="0.1485" />
+        <entry key="..\:/Users/cristian.leon/PruebaMosters/app/src/main/res/drawable/borde_caja_text_item.xml" value="0.1485" />
+        <entry key="..\:/Users/cristian.leon/PruebaMosters/app/src/main/res/drawable/border_tarjeta_limited.xml" value="0.1485" />
+        <entry key="..\:/Users/cristian.leon/PruebaMosters/app/src/main/res/drawable/borders_tarjetas_trasparente.xml" value="0.1485" />
+        <entry key="..\:/Users/cristian.leon/PruebaMosters/app/src/main/res/drawable/btn_cancel.xml" value="0.1485" />
+        <entry key="..\:/Users/cristian.leon/PruebaMosters/app/src/main/res/drawable/desing_container_limited.xml" value="0.1485" />
+        <entry key="..\:/Users/cristian.leon/PruebaMosters/app/src/main/res/drawable/desing_search.xml" value="0.1485" />
+        <entry key="..\:/Users/cristian.leon/PruebaMosters/app/src/main/res/drawable/fondo_aliens.xml" value="0.2115" />
+        <entry key="..\:/Users/cristian.leon/PruebaMosters/app/src/main/res/drawable/fondo_crystron.xml" value="0.2105" />
+        <entry key="..\:/Users/cristian.leon/PruebaMosters/app/src/main/res/drawable/fondo_default.xml" value="0.1485" />
+        <entry key="..\:/Users/cristian.leon/PruebaMosters/app/src/main/res/drawable/fondo_destiny.xml" value="0.2115" />
+        <entry key="..\:/Users/cristian.leon/PruebaMosters/app/src/main/res/drawable/fondo_infernoble.xml" value="0.2105" />
+        <entry key="..\:/Users/cristian.leon/PruebaMosters/app/src/main/res/drawable/fondo_melodious.xml" value="0.2115" />
+        <entry key="..\:/Users/cristian.leon/PruebaMosters/app/src/main/res/drawable/fondo_noble.xml" value="0.2105" />
+        <entry key="..\:/Users/cristian.leon/PruebaMosters/app/src/main/res/drawable/fondo_samurai.xml" value="0.2115" />
+        <entry key="..\:/Users/cristian.leon/PruebaMosters/app/src/main/res/drawable/icon_btn_atras.xml" value="0.1485" />
+        <entry key="..\:/Users/cristian.leon/PruebaMosters/app/src/main/res/drawable/icon_error.xml" value="0.1485" />
+        <entry key="..\:/Users/cristian.leon/PruebaMosters/app/src/main/res/layout/activity_detail.xml" value="0.25" />
+        <entry key="..\:/Users/cristian.leon/PruebaMosters/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Users/cristian.leon/PruebaMosters/app/src/main/res/layout/activity_main.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/cristian.leon/PruebaMosters/app/src/main/res/layout/cardview_banner_monster.xml" value="0.203125" />
+        <entry key="..\:/Users/cristian.leon/PruebaMosters/app/src/main/res/layout/cardview_monster.xml" value="0.33" />
+        <entry key="..\:/Users/cristian.leon/PruebaMosters/app/src/main/res/layout/dialogo_filter_archetype.xml" value="0.203125" />
+        <entry key="..\:/Users/cristian.leon/PruebaMosters/app/src/main/res/layout/loading_data.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/cristian.leon/PruebaMosters/app/src/main/res/layout/view_archetype.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
